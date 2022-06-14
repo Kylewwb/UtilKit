@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/Kylewwb/UtilKit.svg)](https://jitpack.io/#Kylewwb/UtilKit)
 
 
-# UtilKit
+# UtilKit 
 工具类
 
 Step 1. Add it in your root build.gradle at the end of repositories:
@@ -54,6 +54,11 @@ Step 2. Add the dependency
 4  引入 compile 'com.blankj:utilcode:1.9.6' <br>
 
 	https://www.jianshu.com/p/72494773aace
+	
+	
+	持续更新中...
+	
+	
 
 	    
 
